@@ -1,5 +1,5 @@
 
-# DS595 2022 Spring Individual Project 1
+# CS525-DS595 2022 Fall Individual Project 1
 # Dynamic Programming of Markov Decision Process
 
 #### Due Date
