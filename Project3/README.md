@@ -1,4 +1,4 @@
-# Inidividual Project 3
+# CS525-DS595 2022 Fall Inidividual Project 3
 # Deep Q-learning Network(DQN)
 Please don't revise test.py, environment.py and agent.py
 
