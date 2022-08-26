@@ -1,5 +1,5 @@
 
-# Individual Project 2
+# CS525-DS595 2022 Fall  Individual Project 2
 # Model-free Algorithms (Monte-Carlo and Temporal Difference)
 
 #### Due Date
