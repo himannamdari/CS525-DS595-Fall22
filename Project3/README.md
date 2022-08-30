@@ -118,11 +118,7 @@ Please compress all the below files into a zipped file and submit the zip file (
   | 9  |4/6/2022 | Zhentian Qian | 67 |
   | 10  |4/6/2022 | Anujay Sharma | 66 |
   
-  ## Leaderboard for Fall 2022** 
-  
-  | Top | Date | Name | Score |
-  | :---: | :---:| :---: | :---: |
-  
+ 
 ## Leaderboard for Fall 2019** 
   
   | Top | Date | Name | Score |
