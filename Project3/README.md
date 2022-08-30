@@ -12,27 +12,15 @@ Please don't revise test.py, environment.py and agent.py
 In this project, we will provide a leaderboard and give **10** bonus points to the **top 3** highest reward students! 
 * Where to see the leaderboard 
   * We will create a discussion on Canvas and each of you can post your highest reward with a sreenshot. TA will summarize your posts and list the top 3 highest rewards and post it below. <br>
-  * The leaderboard of Fall 2019 is also posted at the end of this page, you can check it out.
-   **Leaderboard for Breakout-DQN** 
-  | Top | Date | Name | Score |
-  **Leaderboard for Breakout-DQN** 
-  **Update Date: **
+  
+ ## Leaderboard for Fall 2022** 
   
   | Top | Date | Name | Score |
   | :---: | :---:| :---: | :---: | 
-  | 1  |4/6/2022 | Hongchao Zhang | 128 |
-  | 2  |4/13/2022 | Apratim Mukherjee| 112 |
-  | 3  | 4/6/2022 |  Puru Upadhyay | 82 |
-  | 4  | 4/6/2022 |  Khai Yi Chin | 81 |
-  | 4  | 4/6/2022 |  Karter Krueger | 81 |
-  | 6  | 4/6/2022 |  Sailesh Rajagopalan | 78 |
-  | 6  |4/6/2022 | Steven Hyland | 78 |
-  | 8  |4/6/2022 | Yiran Fang | 74 |
-  | 9  |4/6/2022 | Zhentian Qian | 67 |
-  | 10  |4/6/2022 | Anujay Sharma | 66 |
-  
- 
-
+  | :---: | :---:| :---: | :---: | 
+  | :---: | :---:| :---: | :---: | 
+  | :---: | :---:| :---: | :---: | 
+  | :---: | :---:| :---: | :---: | 
 * How to elvaluate
   * You should submit your lastest trained model and python code. TA will run your code to make sure the result is consistent with your screenshot. 
 * How to grade
@@ -109,6 +97,26 @@ Please compress all the below files into a zipped file and submit the zip file (
 * Other choice for GPU
   * Use your own GPU
   * Apply [Ace account](https://arc.wpi.edu/computing/accounts/) or[Turing account](https://arc.wpi.edu/computing/accounts/) from WPI 
+  
+  
+  * The leaderboard of Fall 2019 is also posted at the end of this page, you can check it out.
+   **Leaderboard for Breakout-DQN** 
+  | Top | Date | Name | Score |
+  **Leaderboard for Breakout-DQN** 
+  **Update Date: **
+  
+  | Top | Date | Name | Score |
+  | :---: | :---:| :---: | :---: | 
+  | 1  |4/6/2022 | Hongchao Zhang | 128 |
+  | 2  |4/13/2022 | Apratim Mukherjee| 112 |
+  | 3  | 4/6/2022 |  Puru Upadhyay | 82 |
+  | 4  | 4/6/2022 |  Khai Yi Chin | 81 |
+  | 4  | 4/6/2022 |  Karter Krueger | 81 |
+  | 6  | 4/6/2022 |  Sailesh Rajagopalan | 78 |
+  | 6  |4/6/2022 | Steven Hyland | 78 |
+  | 8  |4/6/2022 | Yiran Fang | 74 |
+  | 9  |4/6/2022 | Zhentian Qian | 67 |
+  | 10  |4/6/2022 | Anujay Sharma | 66 |
   
   ## Leaderboard for Fall 2022** 
   
