@@ -13,7 +13,8 @@ In this project, we will provide a leaderboard and give **10** bonus points to t
 * Where to see the leaderboard 
   * We will create a discussion on Canvas and each of you can post your highest reward with a sreenshot. TA will summarize your posts and list the top 3 highest rewards and post it below. <br>
   * The leaderboard of Fall 2019 is also posted at the end of this page, you can check it out.
-  
+   **Leaderboard for Breakout-DQN** 
+  | Top | Date | Name | Score |
   **Leaderboard for Breakout-DQN** 
   **Update Date: **
   
