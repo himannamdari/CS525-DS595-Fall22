@@ -109,6 +109,11 @@ Please compress all the below files into a zipped file and submit the zip file (
   * Use your own GPU
   * Apply [Ace account](https://arc.wpi.edu/computing/accounts/) or[Turing account](https://arc.wpi.edu/computing/accounts/) from WPI 
   
+  ## Leaderboard for Fall 2022** 
+  
+  | Top | Date | Name | Score |
+  | :---: | :---:| :---: | :---: |
+  
 ## Leaderboard for Fall 2019** 
   
   | Top | Date | Name | Score |
