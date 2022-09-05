@@ -2,10 +2,10 @@
 # CS525-DS595 2022 Fall  Individual Project 2
 # Model-free Algorithms (Monte-Carlo and Temporal Difference)
 
-#### Start Date
-* Tuesday 9/27/22  
-#### Due date 
-* Tuesday 10/11/22 11:59 PM 
+Week 5 (9/27 T), Starting date
+
+Week 7 (10/11 T), Due. (Upload it to Canvas)
+Programming in Python.
 
 
 #### Total Points
