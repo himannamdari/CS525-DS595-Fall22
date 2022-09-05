@@ -2,9 +2,9 @@
 # CS525-DS595 2022 Fall Individual Project 1
 # Dynamic Programming of Markov Decision Process
 
-#Week 2 (9/6 T), Starting date
+# Week 2 (9/6 T), Starting date
 
-Week 4 (9/20 T), Due. (Upload it to Canvas)
+# Week 4 (9/20 T), Due. (Upload it to Canvas)
 Programming in Python. 
 
 #### Total Points
