@@ -2,6 +2,7 @@
 
 #### Important Dates
 Timeline:
+
 #Week 10 (11/1 T), Starting date
 
 #Week 11 (11/8 T), Proposal Due. (Upload it to Canvas)
