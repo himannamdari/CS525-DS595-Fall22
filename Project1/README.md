@@ -3,7 +3,7 @@
 # Dynamic Programming of Markov Decision Process
 
 #### Start Date
-* Tuesday 9/6/22 11:59 PM 
+* Tuesday 9/6/22 
 #### Due date 
 * Tuesday 9/20/22 11:59 PM 
 #### Total Points
