@@ -2,9 +2,10 @@
 # CS525-DS595 2022 Fall Individual Project 1
 # Dynamic Programming of Markov Decision Process
 
-#### Due Date
-* Wednesday Feb 9, 2022(23:59)
-
+#### Start Date
+* Tuesday 9/6/22 11:59 PM 
+#### Due date 
+* Tuesday 9/20/22 11:59 PM 
 #### Total Points
 * 100 (One Hundred)
 
