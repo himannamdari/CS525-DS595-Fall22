@@ -2,10 +2,10 @@
 # Deep Q-learning Network(DQN)
 Please don't revise test.py, environment.py and agent.py
 
-#### Start Date
-* Tuesday 9/27/22
-#### Due date 
-* Tuesday 1/11/22 11:59 PM 
+#Week 7 (9/27 T), Starting date
+
+#Week 10 (11/1 T), Due. (Upload it to Canvas).
+Programming in Pytorch/Python.
 
 #### Total Points
 * 100 (One Hundred)
