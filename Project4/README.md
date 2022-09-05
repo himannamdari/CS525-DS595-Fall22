@@ -2,11 +2,11 @@
 
 #### Important Dates
 Timeline:
-Week 10 (11/1 T), Starting date
-Week 11 (11/8 T), Proposal Due. (Upload it to Canvas)
-Week 13 (11/22 T), Progressive report due (Upload it to Canvas discussion board)
-Week 15 (12/5 M), Project report due. (Upload it to Canvas discussion board)
-Week 15 (12/6 T), Project poster session. (In person)
+#Week 10 (11/1 T), Starting date
+#Week 11 (11/8 T), Proposal Due. (Upload it to Canvas)
+#Week 13 (11/22 T), Progressive report due (Upload it to Canvas discussion board)
+#Week 15 (12/5 M), Project report due. (Upload it to Canvas discussion board)
+#Week 15 (12/6 T), Project poster session. (In person)
 
 #### Total Points
 * 100 (One Hundred)
