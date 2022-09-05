@@ -1,22 +1,12 @@
 # CS525-DS595 2022 Fall  Project 4 [Group (3-4 people)]
 
 #### Important Dates
-* Project Start
-  * **Wednesday Mar 23, 2022**
-* Project Proposal Due (Upload to Canvas)
-  * **Wednesday Mar 30, 2022 (23:59)**
-  * *About 2 pages*
-* Project Progress Report Due
-  * **Wednesday April 13, 2022 (23:59)**
-  * *About 5 pages*
-* Final Project Report Due
-  * **Monday April 25, 2022 (23:59)**
-  * *About 10 pages*
-  * *Code and trained model*
-  * *Demo (Optional)*
-  * *Self-and-cross evaluation form*
-* Poster Session (on Zoom)
-  * **Wednesday April 27, 2022**
+Timeline:
+Week 10 (11/1 T), Starting date
+Week 11 (11/8 T), Proposal Due. (Upload it to Canvas)
+Week 13 (11/22 T), Progressive report due (Upload it to Canvas discussion board)
+Week 15 (12/5 M), Project report due. (Upload it to Canvas discussion board)
+Week 15 (12/6 T), Project poster session. (In person)
 
 #### Total Points
 * 100 (One Hundred)
