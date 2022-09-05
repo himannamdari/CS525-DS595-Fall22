@@ -2,8 +2,10 @@
 # Deep Q-learning Network(DQN)
 Please don't revise test.py, environment.py and agent.py
 
-#### Due Date
-* Wednesday Mar 30, 2022 (23:59)
+#### Start Date
+* Tuesday 9/27/22
+#### Due date 
+* Tuesday 1/11/22 11:59 PM 
 
 #### Total Points
 * 100 (One Hundred)
